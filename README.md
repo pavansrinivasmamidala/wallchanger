@@ -5,9 +5,9 @@ It's a basic thing more coming soon..!!
 
 Commands to be Executed :  
 ```bash
-bash <($git clone https://github.com/pavansrinivasmamidala/wallchanger)  
+$git clone https://github.com/pavansrinivasmamidala/wallchanger  
 $cd wallchanger  
 $chmod +x wallchanger.sh  
 $./wallchanger.sh  
-```bash
+```
 that's it just give the path to the wallpapers and set the time in seconds!  
