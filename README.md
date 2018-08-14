@@ -4,8 +4,10 @@ Just Clone/Download this and run it in your Terminal($./wallchanger.sh) and just
 It's a basic thing more coming soon..!!
 
 Commands to be Executed :  
-$git clone https://github.com/pavansrinivasmamidala/wallchanger  
+```bash
+bash <($git clone https://github.com/pavansrinivasmamidala/wallchanger)  
 $cd wallchanger  
 $chmod +x wallchanger.sh  
 $./wallchanger.sh  
+```bash
 that's it just give the path to the wallpapers and set the time in seconds!  
